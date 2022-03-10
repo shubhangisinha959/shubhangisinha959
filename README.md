@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shubhangi
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Python,Azure Cloud,HTML,CSS
+- 👀 I’m interested in Full Stack Web Development 
+- 🌱 I’m currently learning Python,Microsoft Azure Cloud,HTML,CSS,Angular Development
 - 📫 How to reach me : shubhangisinha959@gmail.com
 
 <!---
